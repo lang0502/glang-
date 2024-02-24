@@ -13,7 +13,7 @@ var imgWidth = 120; // width of images (unit: px)
 var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
-var bgMusicURL = 'https://lang0502.github.io/FOTOAKUDAN-DIA/Love%20you.mp3';
+var bgMusicURL = 'https://lang0502.github.io/FOTAKUDAN-DIA/Love%20you.mp3';
 var bgMusicControls = false; // Show UI music control
 
 /*
